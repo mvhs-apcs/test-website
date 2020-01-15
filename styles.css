@@ -40,6 +40,19 @@ h1:hover {
     
 }
 
-#players {
+.players {
     color: black;
+}
+
+h2 {
+    color: green;
+}
+
+
+
+.bordered {
+    border: red 20px solid;
+    border-radius: 10px;
+    margin: 20px;
+    color: green;
 }
