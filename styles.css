@@ -1,0 +1,41 @@
+h1 {
+    font-size: 50px;
+    color: red;
+    background: blue;
+    /*
+    this is for sizing an element
+    width: 50%;
+    height: 250px;*/
+
+    /*margin: 100px 200px 0 20px;
+    margin-left: 100px;*/
+
+    padding: 100px;
+    /* border: 20px solid black; */
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    margin-right: 25%;
+    /* background: gray; */
+}
+
+body {
+    background: #41b0ad;
+    /* background-image: url("images/brady.jpeg"); */
+    background-size: cover;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+h1:hover {
+    
+}
