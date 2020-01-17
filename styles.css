@@ -56,3 +56,15 @@ h2 {
     margin: 20px;
     color: green;
 }
+
+.main {
+    background: gray;
+}
+
+.special {
+    text-decoration: underline;
+}
+
+.main {
+    font-size: 19px; 
+}
